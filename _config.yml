@@ -1,7 +1,7 @@
 name: Nemein
 favicon: null
-layout_spectrum: 0.5623548673465848
-typography_spectrum: 0.0012635551393032074
+layout_spectrum: 0
+typography_spectrum: 0.74613
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.020357548724859953
-  lightness: 0.9513751813210547
-  saturation: 0.39405393437482417
-  rhythmicContrast: 0.6124374805949628
+    - '#ffffff'
+    - '#041943'
+    - '#d6d9df'
+    - '#9fa7b8'
+    - '#4d5a72'
+  brandStrength: 0
+  lightness: 0.8125
+  saturation: 0.3125
+  rhythmicContrast: 1
 purpose: []

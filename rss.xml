@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nemein]]></title>
+        <description><![CDATA[Nemein]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jan 2016 11:53:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VENDAS PODEM SER MAIS CIENTÍFICAS]]></title>
+            <description><![CDATA[<article><h1>VENDAS PODEM SER MAIS CIENTÍFICAS</h1><p>Soluções e métodos de alto impacto para alavancar resultados comerciais expressivos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f18d2c9063515b92ad7a150692d8e6479f4ca61.jpg"></article>]]></description>
+            <link>undefinedvendas-podem-ser-mais-cientificas/index.html</link>
+            <guid isPermaLink="false">0fa19a96-3677-438e-8b2d-1697b42d67e2</guid>
+            <pubDate>Tue, 05 Jan 2016 11:53:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

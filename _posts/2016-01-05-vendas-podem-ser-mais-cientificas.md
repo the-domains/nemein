@@ -3,21 +3,19 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-05T11:53:21.507Z'
-dateModified: '2016-01-05T11:41:11.628Z'
+description: >-
+  Soluções e métodos de alto impacto para alavancar resultados comerciais
+  expressivos.
+datePublished: '2016-09-02T21:59:50.871Z'
+dateModified: '2016-09-02T21:59:32.332Z'
 title: VENDAS PODEM SER MAIS CIENTÍFICAS
 author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 sourcePath: _posts/2016-01-05-vendas-podem-ser-mais-cientificas.md
-published: true
+via: {}
+starred: true
 url: vendas-podem-ser-mais-cientificas/index.html
 _type: Article
 
